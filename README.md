@@ -26,9 +26,9 @@ This project predicts instructor effectiveness using Machine Learning based on l
 
 ## Files
 
-- Instructor_Effectiveness_Assignment.ipynb
-- instructor_performance.csv
+- Instructor_Effectiveness.ipynb
+- Instructor_Effectiveness_Final.csv
 
 ## Author
 
-Om Phalke
+Pranjal Pathare
